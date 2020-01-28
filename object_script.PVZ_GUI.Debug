@@ -1,0 +1,14 @@
+INPUT(
+./debug\gamescene.o
+./debug\main.o
+./debug\game.o
+./debug\info.o
+./debug\map.o
+./debug\shop.o
+./debug\zombie.o
+./debug\plant.o
+./debug\card.o
+./debug\shovel.o
+./debug\qrc_image.o
+./debug\moc_gamescene.o
+);

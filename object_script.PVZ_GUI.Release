@@ -1,0 +1,14 @@
+INPUT(
+./release\gamescene.o
+./release\main.o
+./release\game.o
+./release\info.o
+./release\map.o
+./release\shop.o
+./release\zombie.o
+./release\plant.o
+./release\card.o
+./release\shovel.o
+./release\qrc_image.o
+./release\moc_gamescene.o
+);

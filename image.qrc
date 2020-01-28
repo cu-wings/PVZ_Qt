@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/background.jpg</file>
+        <file>img/shop.png</file>
+        <file>img/card.png</file>
+        <file>img/PotatoMine.png</file>
+        <file>img/Pea.png</file>
+        <file>img/PeaShooter.png</file>
+        <file>img/SunFlower.png</file>
+        <file>img/shovel.png</file>
+        <file>img/shovelBack.png</file>
+        <file>img/Zombie.png</file>
+        <file>img/ConeZombie.gif</file>
+        <file>img/SnowPea.png</file>
+        <file>img/WallNut.png</file>
+        <file>img/Snow.png</file>
+        <file>img/Zombie.gif</file>
+        <file>img/Sun.gif</file>
+        <file>img/ZombiesWon.png</file>
+        <file>zombie.txt</file>
+    </qresource>
+</RCC>

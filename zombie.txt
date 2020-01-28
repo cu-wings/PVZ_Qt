@@ -1,0 +1,2 @@
+1 Zombie 100 10 5 5 25
+2 ConeZombie 200 10 5 5 50

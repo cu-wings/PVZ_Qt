@@ -1,0 +1,4 @@
+1 SunFlower 100 0 100 50
+2 PeaShooter 100 10 30 100
+3 SnowPea 100 10 30 150
+4 WallNut 500 0 0 50
